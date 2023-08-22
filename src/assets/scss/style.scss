@@ -1,0 +1,16 @@
+/* Default Styles */
+// *,
+// *::after,
+// *::before {
+//     margin: 0;
+//     box-sizing: border-box;
+// }
+// h1 {
+//     color: red;
+// }
+@import "_vars.scss";
+@import "_reset.scss";
+@import "_mixin.scss";
+@import "_timeline.scss";
+
+
